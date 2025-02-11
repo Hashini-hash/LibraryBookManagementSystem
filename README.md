@@ -2,7 +2,7 @@
 
 #  **Library Book Management System**
 
-## 📖 Project Overview
+## Project Overview
 This **Library Management System** allows users to **borrow and return books**, while librarians manage book inventory and user accounts.  
 The project follows a **CRUD-based approach** but also incorporates **efficient data structures and algorithms** to optimize book management, searching, and borrowing.
 
