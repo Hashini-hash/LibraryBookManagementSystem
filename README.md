@@ -1,5 +1,3 @@
-# **LibraryBookManagementSystem**
-
 #  **Library Book Management System**
 
 ## Project Overview
