@@ -1,6 +1,6 @@
 # **LibraryBookManagementSystem**
 
-# 📚 **Library Book Management System**
+#  **Library Book Management System**
 
 ## 📖 Project Overview
 This **Library Management System** allows users to **borrow and return books**, while librarians manage book inventory and user accounts.  
@@ -8,22 +8,22 @@ The project follows a **CRUD-based approach** but also incorporates **efficient 
 
 ---
 
-## 🎯 User Story
+##  User Story
 
 ### **Library Users**
-- 🔍 **Search for books** by **title, author, or category**.
-- 📖 **Borrow books** with an automatic due date.
-- 📑 **View borrowed books list**.
-- 🔄 **Return books** when done.
+-  **Search for books** by **title, author, or category**.
+-  **Borrow books** with an automatic due date.
+-  **View borrowed books list**.
+-  **Return books** when done.
 
 ### **Librarians**
-- 📌 **Add, update, and remove books** from the system.
-- 🏷 **Manage user accounts** and approve new members.
-- ⏳ **Track overdue books** and send reminders.
+-  **Add, update, and remove books** from the system.
+-  **Manage user accounts** and approve new members.
+-  **Track overdue books** and send reminders.
 
 ---
 
-## 🛠️ Data Structures Used
+##  Data Structures Used
 
 | **Feature** | **Data Structure** | **Purpose** |
 |------------|------------------|-------------|
@@ -37,7 +37,7 @@ The project follows a **CRUD-based approach** but also incorporates **efficient 
 
 ---
 
-## 📌 Algorithms Used
+## Algorithms Used
 
 | **Algorithm** | **Use Case** |
 |--------------|-------------|
@@ -47,10 +47,3 @@ The project follows a **CRUD-based approach** but also incorporates **efficient 
 | **Greedy Algorithm** | Optimizes book borrowing decisions when demand is high. |
 
 ---
-
-## 🚀 Installation & Setup
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
