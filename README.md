@@ -21,6 +21,14 @@ The project follows a **CRUD-based approach** but also incorporates **efficient 
 
 ---
 
+### **Users in the Project**
+| ****User Role**** | **Allowed Actions** |
+|-------------|----------------|
+| ****Library Member**** | **Search books** using optimized data structures (Trie) <br> **View borrowed books** <br> **Borrow books** (if available) <br> **Return books** (to free availability) |
+| ****Librarian (Admin)**** | **Manage books** (Add, update, delete books) <br> **Manage users** (Register members, update roles) <br> **View transaction logs** (See book borrow/return history) |
+
+Only **librarians** can modify book and user records, while **members** can only search and borrow books.
+
 ##  Data Structures Used
 
 | **Feature** | **Data Structure** | **Purpose** |
