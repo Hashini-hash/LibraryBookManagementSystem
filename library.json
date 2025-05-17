@@ -1,0 +1,67 @@
+{
+    "books": {
+        "1": {
+            "author": "George Orwell",
+            "available_copies": 3,
+            "genre": "Dystopian",
+            "title": "1984"
+        },
+        "2": {
+            "author": "Harper Lee",
+            "available_copies": 2,
+            "genre": "Classic",
+            "title": "To Kill a Mockingbird"
+        },
+        "3": {
+            "author": "F. Scott Fitzgerald",
+            "available_copies": 4,
+            "genre": "Classic",
+            "title": "The Great Gatsby"
+        },
+        "4": {
+            "author": "J.R.R. Tolkien",
+            "available_copies": 5,
+            "genre": "Fantasy",
+            "title": "The Hobbit"
+        },
+        "5": {
+            "author": "wassup",
+            "available_copies": 4,
+            "genre": "trump microdick",
+            "title": "yo"
+        }
+    },
+    "borrowedBooks": {
+        "Zelensky": [
+            "1984"
+        ],
+        "bookishLuna": [
+            "The Catcher in the Rye"
+        ],
+        "chillJoe": [
+            "The Hobbit"
+        ]
+    },
+    "users": [
+        {
+            "password": "admin",
+            "role": "admin",
+            "username": "admin"
+        },
+        {
+            "password": "readmore",
+            "role": "member",
+            "username": "chillJoe"
+        },
+        {
+            "password": "hurb",
+            "role": "member",
+            "username": "bruh"
+        },
+        {
+            "password": "ukraine",
+            "role": "member",
+            "username": "Zelensky"
+        }
+    ]
+}
